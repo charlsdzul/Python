@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9fd39937-27de-46d6-bb8c-c908957775a5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python.py</StartupFile>
+    <StartupFile>Funciones.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Funciones.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Listas.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Python.py" />
