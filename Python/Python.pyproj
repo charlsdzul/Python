@@ -33,6 +33,9 @@
     <Compile Include="CONTINUE-PASS-ELSE.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Exepciones.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Funciones.py">
       <SubType>Code</SubType>
     </Compile>
