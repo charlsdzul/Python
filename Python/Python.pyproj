@@ -36,6 +36,9 @@
     <Compile Include="Funciones.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Generadores.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Listas.py">
       <SubType>Code</SubType>
     </Compile>
