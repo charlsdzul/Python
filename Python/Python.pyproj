@@ -21,7 +21,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Bucle FOR.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Bucle WHILE.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Condicionales.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CONTINUE-PASS-ELSE.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Funciones.py">
